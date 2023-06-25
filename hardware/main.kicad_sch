@@ -5,8 +5,11 @@
   (paper "A5")
 
   (title_block
+    (title "Communication panel board")
     (date "2023-06-23")
     (rev "0.1")
+    (company "libreUPS")
+    (comment 2 "MuratovAS")
   )
 
   (lib_symbols
